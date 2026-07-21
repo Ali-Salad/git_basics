@@ -6,3 +6,4 @@ AI
 Outliers
 encoding
 feature
+scaling
