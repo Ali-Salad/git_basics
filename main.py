@@ -85,7 +85,9 @@ print(f"tax 22%:{tax} ")
 net = gross_pay - tax
 print(f"net:{net}")
 
-
+Students counts 
+students = 300 
+if student == 300:
 
 
 
