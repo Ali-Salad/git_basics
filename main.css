@@ -4,4 +4,7 @@ main{
     font_size 2rem;
     background_clor: backdrop;
     position: relative;
+    margin: 0;
+    padding: 10;
+   
 }
