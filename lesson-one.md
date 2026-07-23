@@ -1,7 +1,7 @@
 Introduction to Machine Learning
 1. Defining Machine Learning
 
-Machine Learning (ML) is a subfield of artificial intelligence that focuses on developing algorithms capable of learning patterns from data and making decisions or predictions without being explicitly programmed for every possible situation. Rather than relying on fixed rules written by humans, machine learning systems improve their performance as they are exposed to more data.
+Machine Learning (ML) is a subfield of artificial intelligence that focuses on developing algorithms capable of learning patterns from data and making decisions or predictions 
 
 A widely accepted definition was proposed by Arthur Samuel (1959), who described machine learning as a “field of study that gives computers the ability to learn without being explicitly programmed.” Later, Tom Mitchell (1997) formalized this idea by stating that a computer program learns from experience E with respect to a task T and performance measure P if its performance at task T, as measured by P, improves with experience E.
 
