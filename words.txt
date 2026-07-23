@@ -8,3 +8,4 @@ encoding
 feature
 scaling
 engineering
+label encoding
