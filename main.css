@@ -2,5 +2,6 @@ main{
     weight: = 1200;
     height: 300;
     font_size 2rem;
-    background_clor::backdrop
+    background_clor: backdrop;
+    position: relative;
 }
