@@ -13,3 +13,4 @@ git branch -c new_branch
 git branch
 git switch branch_name
 git remote -v
+git remote set-url origin https://github.com/your-username/new-repo-name.git
