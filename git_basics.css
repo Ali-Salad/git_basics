@@ -12,3 +12,4 @@ git remote ogigin add origin
 git branch -c new_branch
 git branch
 git switch branch_name
+git remote -v
