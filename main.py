@@ -31,3 +31,13 @@ rate= float(input("enter your rate :"))
 print(f"Employee:{name}")
 print(f"Hours:{hours}")
 print(f"Rate:{rate}/hrs")
+
+
+gross_pay = hours * rate;
+print(f"gorss_pay:{gross_pay}")
+tax_percentage = 22 / 100
+tax= gross_pay * tax_percentage
+print(f"tax 22%:{tax} ")
+
+net = gross_pay - tax
+print(f"net:{net}")
