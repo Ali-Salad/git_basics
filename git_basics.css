@@ -11,3 +11,4 @@ git config --global user.email "youremail@example.com"
 git remote ogigin add origin
 git branch -c new_branch
 git branch
+git switch branch_name
