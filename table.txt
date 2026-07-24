@@ -7,13 +7,13 @@ geedi       8           30          240                5280
 xirsi
 
 
-ceydid
-ali-salad
-aisha
-madino
-xaawo 
-xaayow
-Abdirahman
+ceydid       8           35          240                5280   
+ali-salad    8           30          240                5280   
+aisha        8           30          240                5280   
+madino       8           30          240                5280   
+xaawo        8           30          240                5280    
+xaayow       8           30          240                5280   
+Abdirahman   8           30          240                5280   
 abdiaziz
 burahan 
 osman
