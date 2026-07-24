@@ -4,3 +4,4 @@ git add .
 git commit -m "mcommit message"
 git diff
 git diff --staged
+git log
