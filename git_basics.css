@@ -16,3 +16,4 @@ git remote -v
 git remote set-url origin https://github.com/your-username/new-repo-name.git
 mkdir my-project 
 cd my-project
+git restore
