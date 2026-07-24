@@ -1,16 +1,14 @@
-jaamc  
-maryam 
-faadumo
-raage 
-geedi 
+name        hours       rates       total_fee        mounthly_fee
+jaamc       8           12          96                 2112    
+maryam      8           15          120                2640    
+faadumo     8           20          160                3520    
+raage       8           25          200                4400   
+geedi       8           30          240                5280   
 xirsi
 
 
 ceydid
 ali-salad
-<<<<<<< Updated upstream
-aisha
-=======
 aisha
 madino
 xaawo 
@@ -23,11 +21,9 @@ fardowso
 cise 
 omar i
 mohamed
-Afrax
+Afrax   
 wehliye
 jimcaale
 koofi
 j.adam
-geedi
-farxio 
 
