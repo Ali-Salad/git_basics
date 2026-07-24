@@ -2,3 +2,4 @@ git status
 git init
 git add .
 git commit -m "mcommit message"
+git diff
