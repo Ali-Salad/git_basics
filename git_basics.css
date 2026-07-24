@@ -18,3 +18,4 @@ mkdir my-project
 cd my-project
 git restore
 git restore --staged
+git stash
