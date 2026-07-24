@@ -6,3 +6,4 @@ git diff
 git diff --staged
 git log
 git log --oneline
+git config --global user.name "Your Name"
