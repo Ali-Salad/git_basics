@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name = "Hodan"
 age = 22
 city = "mogadishu"
@@ -69,6 +70,34 @@ print(message.count("s"))
 print(state.count("a"))
 
 # # chalange 3
+=======
+# # # # chalange 1
+# # # calculating rikaab tax driver 
+# # tax_drivers = 20
+# # cars =20
+# # daily_rent = 10
+# # Total_tax_cost = cars * daily_rent
+# # print(cars)
+# # print(daily_rent)
+# # print(Total_tax_cost)
+
+# # # chalange 2
+# # a = 2
+# # b = 4
+# # c = a*b
+# # print(a*b)
+
+# # chalange 3
+# name = "abdurahman"
+# print(len(name))
+# print(name.count("a"))
+# print(name.find("1"))
+# print(name.upper())
+# print(name.lower())
+# print(name.capitalize())
+
+# chalange 4
+>>>>>>> origin/main
 name = input ("enter your name:")
 hours = int(input("enter your hours :"))
 rate= float(input("enter your rate :"))
@@ -77,6 +106,10 @@ print(f"Employee:{name}")
 print(f"Hours:{hours}")
 print(f"Rate:{rate}/hrs")
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 gross_pay = hours * rate;
 print(f"gorss_pay:{gross_pay}")
 tax_percentage = 22 / 100
@@ -84,6 +117,7 @@ tax= gross_pay * tax_percentage
 print(f"tax 22%:{tax} ")
 
 net = gross_pay - tax
+<<<<<<< HEAD
 print(f"net:{net}")
 
 #  chalange 4
@@ -134,3 +168,6 @@ print(f"net_school_income {net_school_income}")
 
 
 
+=======
+print(f"net:{net}")
+>>>>>>> origin/main

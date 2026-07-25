@@ -19,3 +19,6 @@ cd my-project
 git restore
 git restore --staged
 git stash
+git stash pop
+git push origin -u main 
+git push
